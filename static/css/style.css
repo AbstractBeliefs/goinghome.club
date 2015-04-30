@@ -1,0 +1,9 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+    width: 90%;
+    padding-left: 5%;
+}
